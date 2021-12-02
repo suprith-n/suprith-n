@@ -1,10 +1,9 @@
 ### Hi there, I'm Suprith - aka Heavy 👋 
 
-## I'm a Freelancer, Developer, and Apple Fan boy!!
+## I'm a Freelancer, Developer🧑🏻‍💻, and Apple Fan boy🍏!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Techies
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to sleep, watch Netflix, Hike.
 
 ### Connect with me:
@@ -21,5 +20,5 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <br />
 
-[website]: https://pineapple.in
+[website]: 
 [linkedin]: https://www.linkedin.com/in/suprith-n-raj1997/
