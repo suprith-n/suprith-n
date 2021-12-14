@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Techies
-- ⚡ Fun fact: I love to sleep, watch Netflix, Hike.
+- 👨🏽‍💻 Applefanboy
+- ⚡ Fun fact: I love to sleep.
 
 ### Connect with me:
 
