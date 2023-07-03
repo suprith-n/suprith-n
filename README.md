@@ -8,8 +8,7 @@
 - 👨🏽‍💻 Applefanboy
 - ⚡ Fun fact: I love to sleep.
 
-[![Suprith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suprith-n
-&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/suprith-n/github-readme-stats)
+[![Suprith's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suprith-n)](https://github.com/suprith-n/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suprith-n&layout=compact&theme=calm)](https://github.com/suprith-n/github-readme-stats)
 
 
