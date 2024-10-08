@@ -1,6 +1,6 @@
 ### Hi there, I'm Suprith - aka Heavy 👋 
 
-## I'm a Salesforce Developer, UI Developer🧑🏻‍💻, and Apple Fan boy🍏!!
+## I'm a Salesforce Developer, UI Developer🧑🏻‍💻, Ios app Dev and Apple Fan boy🍏!!
 
 - ☁️ Certified Salesforce Administrator
 - 🌱 I’m currently learning everything 🤣
